@@ -15,7 +15,6 @@ talk_description: |
   
   This talk covers what Herb brings to Rails. How we made the integration possible, how we adapted and extended ActionView, and the toolchain and dev tools every Rails developer gets out of the box as a result.
   
-  Herb's understanding of ERB is what makes this possible. I'll introduce the first production-ready version of ReActionView with Phoenix LiveView-like reactivity support. Fully optional, opt-in, and gradual. Fine-grained reactivity. No JavaScript framework. No new file format. Your HTML+ERB templates, now reactive.
 ---
 
 Marco is a passionate full-stack developer and a dedicated open-source contributor. As a member of the Hotwire and StimulusReflex contributors teams he has open-sourced, maintained, and contributed to several libraries in the Hotwire/Rails ecosystem.
